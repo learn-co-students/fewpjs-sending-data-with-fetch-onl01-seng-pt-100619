@@ -43,6 +43,11 @@
       "dogName": "Byron",
       "dogBreed": "Poodle",
       "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
     }
   ],
   "cats": [

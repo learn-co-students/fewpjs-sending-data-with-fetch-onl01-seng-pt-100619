@@ -18,3 +18,4 @@ let formData = {
   };
    
   fetch("http://localhost:3000/dogs", configObj);
+  // add fetch set to post to send the data to our server of choosing and it behaves like a form posting to the database

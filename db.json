@@ -33,6 +33,16 @@
       "dogBreed": "German Sheppard",
       "submit": "Submit",
       "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
     }
   ],
   "cats": [

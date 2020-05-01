@@ -15,6 +15,24 @@
       "dogBreed": "German Sheppard",
       "submit": "Submit",
       "id": 3
+    },
+    {
+      "dogName": "Zelda",
+      "dogBreed": "German Sheppard",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "dogName": "Zelda",
+      "dogBreed": "German Sheppard",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "dogName": "Zelda",
+      "dogBreed": "German Sheppard",
+      "submit": "Submit",
+      "id": 6
     }
   ],
   "cats": [

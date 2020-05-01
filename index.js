@@ -17,5 +17,15 @@ let formData = {
     body: JSON.stringify(formData)
   };
    
-  fetch("http://localhost:3000/dogs", configObj);
-  // add fetch set to post to send the data to our server of choosing and it behaves like a form posting to the database
+  fetch("http://localhost:3000/dogs", configObj)  // add fetch set to post to send the data to our server of choosing and it behaves like a form posting to the database
+    .then(function(response) {
+        return response.json();
+    })
+    .then(function(object) {
+        console.log(object);
+    })
+    .catch(function(error) {
+        alert("Bad things! Ragnarők!");
+        console.log(error.message);
+    });
+// add .catch to return errors. for example if the post method is not included in the configuration object then it cant have a body or data to send, only to recieve

@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,145 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "",
+      "submit": "Submit",
+      "id": 6
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 7
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 10
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 11
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 12
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 13
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 14
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 15
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 16
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 17
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 18
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 19
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 20
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 21
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 22
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 23
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 24
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 25
+    },
+    {
+      "dogName": "Dave",
+      "dogBreed": "Pitbull",
+      "submit": "Submit",
+      "id": 26
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -22,9 +159,11 @@
     }
   ],
   "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
